@@ -1,2 +1,2 @@
-# Test-Repo
+# My Test Repo
 Testing the Git
